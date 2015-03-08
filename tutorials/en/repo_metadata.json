@@ -14,7 +14,7 @@
 			"tutorials":
 			[
 				{
-		        	"name"          : "Integration services (SOAP/HTTP inputs)",
+		        	"name"          : "Hosies Integration services (SOAP/HTTP inputs)",
 		            	"version"		: "1.0",
 		            	"iibVersions"	: "10.*-11.*",
 		            	"shortDesc"     : "Learn about integration services that use SOAP/HTTP inputs in IBM Integration Bus by exploring this simple example.",
